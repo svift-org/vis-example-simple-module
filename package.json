@@ -1,0 +1,16 @@
+{
+  "name": "svift-vis-example-simple",
+  "version": "1.0.0",
+  "description": "Simple example explaining animations through the timeline",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/svift/vis-example-simple-module.git"
+  },
+  "author": "Sebastian Meier",
+  "license": "MIT",
+  "homepage": "https://bitbucket.org/svift/vis-example-simple-module#readme"
+}
