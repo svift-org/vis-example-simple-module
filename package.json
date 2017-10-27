@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@bitbucket.org/svift/vis-example-simple-module.git"
+    "url": "git+https://git@github.com/svift-org/vis-example-simple-module.git"
   },
   "author": "Sebastian Meier",
   "license": "MIT",
-  "homepage": "https://bitbucket.org/svift/vis-example-simple-module#readme"
+  "homepage": "https://github.com/svift-org/vis-example-simple-module#readme"
 }
